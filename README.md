@@ -34,7 +34,7 @@ The mixture will contain carbonized polymer dots doped with lithium ions.
 
 Purification:
 
-Filter the mixture to remove larger particulates using a 0.22 μm filter.
+Filter the mixture to remove larger particulates using a less than 0.22 μm filter.
 
 Centrifuge at 10,000 rpm for 15 minutes to collect the dispersed Li-CPDs.
 
